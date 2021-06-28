@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Familiar with **JAVA** and **C++** 👓
+2. Can do a *Basic Portrait* 🖌️
